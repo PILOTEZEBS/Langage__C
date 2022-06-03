@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648492705 source:c:\users\pilote zebs\documents\c\palindrone\main.c
+	<stdio.h>
+	<stdlib.h>
+
