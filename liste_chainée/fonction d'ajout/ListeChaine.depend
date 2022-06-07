@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654625077 source:c:\users\pilote zebs\documents\c\fiche de td\structure\listechaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
